@@ -1,0 +1,36 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+
+body{
+  min-height: 100vh;
+  max-height: fit-content;
+  background-color: #34495e;
+  font-family: monospace;
+color:orange
+  
+}
+
+#editor{
+  display:block;
+  width: 400px;
+  margin: 0 auto;
+  min-height: 200px;
+  
+}
+
+
+
+#preview{
+  min-width: 600px;
+  width: fit-content;
+  margin: 0 auto;
+  min-height: 150px;
+  background-color: aliceblue;
+  border:1px solid black;
+  color:black
+}
